@@ -22,5 +22,7 @@ Branching information:
 * `V11` the version for Vaadin 11
 
 ## Preview
+### Start to chat
 ![](https://github.com/doubizhukk/Chatroom/blob/master/chat%20start.png)
+### Chat history
 ![](https://github.com/doubizhukk/Chatroom/blob/master/chat%20history.png)
